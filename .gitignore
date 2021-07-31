@@ -1,0 +1,8 @@
+.idea/
+my_settings.py
+db.sqlite3
+migrations/
+.log
+__pycache__/
+backup*
+static/
